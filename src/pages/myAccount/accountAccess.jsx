@@ -6,7 +6,7 @@ import './accountAccess.scss';
 
 const AccountAccess = () => {
     return (
-        <div>
+        <div className='accountAccess'>
             <SignIn />
             <SignUp />
         </div>
